@@ -1,4 +1,3 @@
-<h1 align="center">Devansh</h1>
 <p align="center"><b>Data Analytics • Machine Learning • Business Intelligence</b></p>
 
 ---
@@ -16,7 +15,6 @@ I work with data to answer business questions: finding patterns, building dashbo
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-**Also:** SQL, DAX
 
 ### Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devansh-dangwal-643237368)
